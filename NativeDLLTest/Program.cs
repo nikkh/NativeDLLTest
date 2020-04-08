@@ -65,7 +65,7 @@ namespace NativeDLLTest
                 Console.WriteLine($"inbound container={inboundContainerName}");
                 Console.WriteLine($"inbound blob name ={inboundBlobName}");
                 Console.WriteLine($"outbound container={outboundContainerName}");
-                Console.WriteLine($"outbound blob prefix={outboundBlobPrefix}");
+                Console.WriteLine($"outbound blob prefix={outboundBlobPrefix}"); 
                 Console.WriteLine($"outbound blob suffix={outboundBlobSuffix}");
                 Console.WriteLine();
                 Console.WriteLine($"dll name={dllName}");
